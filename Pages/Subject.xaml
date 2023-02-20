@@ -7,7 +7,7 @@
 
         <StackLayout Margin="5" >
             <StackLayout Margin="0,30">
-                <Label FontSize="32" Text="Your Subjects"  HorizontalOptions="Center"/>
+                <Label FontSize="32" Text="Subjects"  HorizontalOptions="Center"/>
             </StackLayout>
 
             <StackLayout Margin="0,4">
@@ -53,7 +53,7 @@
        CornerRadius="5"
        Padding="20">
                     <StackLayout>
-                        <Label Text="Philosophy"
+                        <Label Text="Philos"
            FontSize="14"
            FontAttributes="Bold" />
                         <BoxView Color="Gray"
